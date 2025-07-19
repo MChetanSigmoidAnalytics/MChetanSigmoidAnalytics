@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**MChetanSigmoidAnalytics/MChetanSigmoidAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👋 Hi, I'm Chetan! 🚀  
+**Aspiring Backend Developer | Java & Spring Boot Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+## 🔹 About Me  
+- 🎓 **Graduation (2025)**, preparing for placements  
+- 💻 Passionate about **Backend Development** and **Databases**  
+- 🔍 Exploring **Spring Boot, MySQL, and React.js** for Full-Stack Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects  
+- 🏥 **Govt. Health Schemes Website** – Informative portal using NODE.JS,HTML,CSS,JavaScript,MySQL  
+- 📊 **Quiz App for DSA Practice** – Built with Java Spring Boot & MySQL  
+- 🚆 **IRCTC Train Ticket Booking System** – A work-in-progress Java project
+- 🪪 **Spring Boot CRUD Application** -This is a simple Spring Boot CRUD (Create, Read, Update, Delete) application that manages student data using Spring Boot, JPA, and MySQL.
+
+## 🔹 Technical Skills  
+- **Languages:** Java, SQL, JavaScript  
+- **Frameworks:** Spring Boot, React.js (beginner)  
+- **Databases:** MySQL  
+- **Concepts:** DBMS, Data Structures, Algorithms, Computer Networks  
+
+## 🔹 What I'm Currently Learning  
+- **Advanced Spring Boot** (Security, Microservices)  
+- **React.js** (Frontend Development)  
+- **Optimized Data Structures & Algorithms**  
+
+## 🔹 Let's Connect!  
+📫 Reach me at **[chetanmangalore@gmail.com](mailto:chetanmangalore@gmail.com)**  
+⚽ **Sports Enthusiast** (Volleyball & Cricket) | 🎮 **Gamer** (PUBG Mobile Winner)  
