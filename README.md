@@ -3,7 +3,7 @@
 **Aspiring Backend Developer | Java & Spring Boot Enthusiast | Problem Solver**  
 
 ## 🔹 About Me  
-- 🎓 **Graduation (2025)**, preparing for placements  
+- 🎓 **Graduation (2025)**
 - 💻 Passionate about **Backend Development** and **Databases**  
 - 🔍 Exploring **Spring Boot, MySQL, and React.js** for Full-Stack Development  
 
@@ -22,7 +22,8 @@
 ## 🔹 What I'm Currently Learning  
 - **Advanced Spring Boot** (Security, Microservices)  
 - **React.js** (Frontend Development)  
-- **Optimized Data Structures & Algorithms**  
+- **Optimized Data Structures & Algorithms**
+- **DataOps Intern at Sigmoid** 
 
 ## 🔹 Let's Connect!  
 📫 Reach me at **[chetanmangalore@gmail.com](mailto:chetanmangalore@gmail.com)**  
