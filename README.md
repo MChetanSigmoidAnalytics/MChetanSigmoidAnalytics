@@ -6,7 +6,7 @@
 ## 🔹 About Me  
 - 🎓 **Graduation (2025)**
 - 💻 Passionate about **Backend Development** and **Databases**  
-- 🔍 Exploring **Spring Bo![github](https://github.com/user-attachments/assets/d85a7ba9-6d67-4860-bb4d-2cd25753b136)
+- 🔍 Exploring **Spring Booot
 ot, MySQL, and React.js** for Full-Stack Development  
 
 ## 🔹 Projects  
