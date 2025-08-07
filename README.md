@@ -1,4 +1,3 @@
-![github](https://github.com/user-attachments/assets/4e53be46-33ef-4922-bbad-2a970cb5e7f9)
 
  👋 Hi, I'm Chetan! 🚀  
 **Aspiring Backend Developer | Java & Spring Boot Enthusiast | Problem Solver**  
