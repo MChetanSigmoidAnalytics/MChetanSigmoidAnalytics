@@ -1,3 +1,4 @@
+![github](https://github.com/user-attachments/assets/4e53be46-33ef-4922-bbad-2a970cb5e7f9)
 
  👋 Hi, I'm Chetan! 🚀  
 **Aspiring Backend Developer | Java & Spring Boot Enthusiast | Problem Solver**  
@@ -5,7 +6,8 @@
 ## 🔹 About Me  
 - 🎓 **Graduation (2025)**
 - 💻 Passionate about **Backend Development** and **Databases**  
-- 🔍 Exploring **Spring Boot, MySQL, and React.js** for Full-Stack Development  
+- 🔍 Exploring **Spring Bo![github](https://github.com/user-attachments/assets/d85a7ba9-6d67-4860-bb4d-2cd25753b136)
+ot, MySQL, and React.js** for Full-Stack Development  
 
 ## 🔹 Projects  
 - 🏥 **Govt. Health Schemes Website** – Informative portal using NODE.JS,HTML,CSS,JavaScript,MySQL  
